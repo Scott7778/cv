@@ -1,0 +1,17 @@
+body {
+  background-color: #D2DAFF;
+  font-size: 1.4em;
+  margin-left: 15px;
+}
+
+.dot {
+  border-color: #777777;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  /** border-width creates the size of the dots in our dotted style **/
+  width: 7%;
+  height: 5px;
+}
+
+/** height created a padding. **/
