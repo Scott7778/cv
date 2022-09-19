@@ -1,7 +1,7 @@
 body {
   background-color: #D2DAFF;
   font-size: 1.4em;
-  margin-left: 15px;
+  margin: 15px;
 }
 
 .dot {
@@ -13,5 +13,6 @@ body {
   width: 7%;
   height: 5px;
 }
+h1, h2, h3{color:#5F6F94;}
 
 /** height created a padding. **/
